@@ -7,7 +7,6 @@
 //
 
 import Foundation
-
 final class RegexManager {
     
     // MARK: Regular expression pool
